@@ -1,0 +1,15 @@
+{
+  "name": "buildappprojectedx",
+  "version": "1.0.0",
+  "description": "functional prototype app using node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brackets-nodejs-integration": "^1.8.19",
+    "express": "^4.16.2"
+  }
+}
